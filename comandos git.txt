@@ -1,0 +1,2 @@
+git init: inicia el versionamientos de los repositorios
+git status: revisar el estado de los archivos con referencia 
